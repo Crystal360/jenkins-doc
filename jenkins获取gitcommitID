@@ -1,0 +1,8 @@
+在Pipeline中获取GitCommitID。
+https://issues.jenkins-ci.org/browse/JENKINS-34455
+https://gitee.com/zhuzhus/dubbo/blob/master/Jenkinsfile
+https://issues.jenkins-ci.org/browse/JENKINS-34455
+
+https://code-maven.com/jenkins-git-check-out-using-reference
+
+https://issues.jenkins-ci.org/browse/JENKINS-35245
