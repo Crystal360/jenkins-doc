@@ -9,4 +9,7 @@ jenkins 版本 Jenkins ver. 2.202
 参考文章：
 jenkins安装插件的两种方式
 https://www.jianshu.com/p/3b5ebe85c034
+安装
+
+
 
